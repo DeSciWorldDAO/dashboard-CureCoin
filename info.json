@@ -1,5 +1,5 @@
 {"name":"CureCoin",
-"tokenSymbol":"CURE ",
+"tokenSymbol":"CURE",
 "DaoOS":"Snapshot",
 "address":"",
 "description":"Curecoin is a blockchain-based platform that leverages distributed computing networks (DCNs) worldwide to advance medical, scientific, and mathematical research by incentivizing the donation of computational resources. The platform rewards users who contribute to DCNs through a fair distribution algorithm that operates as an analog to Proof-of-Work.Since its establishment in 2014, the Curecoin team has grown to become one of the world's top producers of computational power for Stanford's Folding at Home project (now part of the University of Pennsylvania), the largest research-based DCN on earth. CureCoin's unique hybrid business model combines cloud folding for those without powerful systems with an innovative research-based alternative to Universal Basic Income (UBI). By creating value from the production of useful scientific data (citizen science) and member participation, CureCoin provides an innovative way to incentivize individuals to contribute to global research efforts.",
@@ -12,7 +12,8 @@
        "link": "https://www.curecoin.net"
    },  {"name": "Intro",
        "description": "Intro",
-       "mediaUrl": " https://pbs.twimg.com/profile_images/1619080183159615489/0a5XowVi_400x400.jpg",      "source": "image",
+       "mediaUrl": " https://pbs.twimg.com/profile_images/1619080183159615489/0a5XowVi_400x400.jpg",     
+        "source": "image",
        "link": "https://www.curecoin.net"  }
 ],
 "deleted":false,
@@ -26,7 +27,6 @@
 "website":"https://www.curecoin.net",
 "tokenDescription":"CureCoin is a Proof-of-Stake token using a scientific Proof-of-Work analogue.",
 "tokenTradeLink":"https://hitbtc.com/cure-to-btc",
-
 "tags":["Science DeFi", "Philanthropy", "Decentralized Computing", "Decentralized biotech"]
   
 }
